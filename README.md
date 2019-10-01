@@ -147,6 +147,8 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
+Note: you can compare across forks as such <https://help.github.com/en/articles/creating-a-pull-request-from-a-fork>
+
 Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />

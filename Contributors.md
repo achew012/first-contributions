@@ -13,6 +13,7 @@
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
+- [polars] (https://github.com/polars05)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
 - [Moinak Banerjee] (https://github.com/moinak878)
